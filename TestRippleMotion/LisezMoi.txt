@@ -15,3 +15,6 @@ attention : placer le fichier "init.txt" à la racine du programme
 cmd execution : java MainActivity
 
 En espérant que cela vous aille.
+
+Tout le code se trouve dans le fichier MainActivity.java
+
