@@ -1,0 +1,17 @@
+Voici la test que vous m'avez demandé.
+Le fichier init.txt contient : 
+1ere ligne la masse du vehicule
+2eme ligne l'intervale de la prise de mesure en seconde (2.5 secondes sur votre exemple)
+3eme -> la fin : les mesures dans l'orde chronologique
+
+L'interface est plus un affiche qu'une interface a proprement parlé etant donné que l'utilisateur n'interagit pas
+
+La formule de puissance est je pense fausse, mais l'idée est la
+La courbe represente la vitesse à un temps donné
+
+Prendre en compte l'aerodynamisme modifierait la formule de la puissance. Eyant un emploi du temps assez chargé en ce moment, je n'ai pas plus approfondie cette formule .
+
+attention : placer le fichier "init.txt" à la racine du programme
+cmd execution : java MainActivity
+
+En espérant que cela vous aille.
